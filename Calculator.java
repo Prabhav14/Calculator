@@ -7,6 +7,7 @@ public class Calculator
         float a, b, res;
         char choice, ch;
         Scanner scan = new Scanner(System.in);
+        System.out.println("Program edited");
 		
         do
         {
